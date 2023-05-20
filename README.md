@@ -1,1 +1,3 @@
 # IGEM_Client
+
+This GitHub repository contains the client version of IGEM, a powerful tool for genomics and exposome analysis, quantity data control, interactions, and associations analysis using regression models. It is designed for users who want to explore associations between genomics and exposomes, conduct in-depth analysis, and perform data-driven research. Please note that this version does not include data ingestion processes, data lake management, or database maintenance functionalities.
