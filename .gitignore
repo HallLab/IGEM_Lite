@@ -135,3 +135,5 @@ data
 backup
 results
 venv
+*.csv
+test_data_files
