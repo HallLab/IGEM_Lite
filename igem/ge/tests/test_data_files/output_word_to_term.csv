@@ -1,4 +1,0 @@
-row,string,word,term_id,term,term_descr,qtd_terms,qtd_loops,time
-0,teste,,,,,0,0,0 days 00:00:02.989325
-1,gene:367,,,,,0,0,0 days 00:00:02.869921
-2,chem:c112297,,,,,0,0,0 days 00:00:02.568314
